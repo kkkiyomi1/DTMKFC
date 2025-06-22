@@ -75,12 +75,6 @@ Modify `run_experiment.py` to plug in your own data or adjust parameters.
 We welcome issues, feature requests, and pull requests.  
 To contribute, please fork the repo and open a PR with clear description of changes.
 
----
-
-## 📬 Contact
-
-Maintainer: [Your Name](mailto:your.email@example.com)  
-For academic inquiries or collaborations, feel free to reach out.
 
 ---
 
