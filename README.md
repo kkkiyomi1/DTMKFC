@@ -73,8 +73,8 @@ If you find this project helpful, please cite our paper:
 ```bibtex
 @inproceedings{YourName2025DTMKFC,
   title     = {Dynamic Topology-aware Multi-view Knowledge-guided Semi-supervised Clustering},
-  author    = {Your Name and Witold Pedrycz},
-  booktitle = {Proceedings of [Conference]},
+  author    = {Yi Zhu and Witold Pedrycz},
+  booktitle = {},
   year      = {2025}
 }
 ```
@@ -90,7 +90,7 @@ To contribute, please fork the repo and open a PR with clear description of chan
 
 ## 📬 Contact
 
-Maintainer: [Your Name](mailto:your.email@example.com)  
+Maintainer: [Yi Zhu](yi_zhu13@outlook.com)  
 For academic inquiries or collaborations, feel free to reach out.
 
 ---
