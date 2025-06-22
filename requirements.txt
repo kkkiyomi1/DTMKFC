@@ -1,0 +1,6 @@
+numpy>=1.20
+scipy>=1.6
+scikit-learn>=1.0
+matplotlib>=3.3
+imageio>=2.9
+tqdm>=4.60
