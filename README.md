@@ -71,9 +71,9 @@ Modify `run_experiment.py` to plug in your own data or adjust parameters.
 If you find this project helpful, please cite our paper:
 
 ```bibtex
-@inproceedings{YourName2025DTMKFC,
+@inproceedings{YiZhu2025DTMKFC,
   title     = {Dynamic Topology-aware Multi-view Knowledge-guided Semi-supervised Clustering},
-  author    = {Yi Zhu and Witold Pedrycz},
+  author    = {Yi Zhu, Dong Li, Chao Xi, Zhijian Liang and Witold Pedrycz},
   booktitle = {},
   year      = {2025}
 }
